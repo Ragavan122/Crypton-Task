@@ -1,0 +1,15 @@
+
+
+
+.all{
+  background-color: black;
+  color:white;
+
+}
+
+.all ul{
+  display: flex;
+  gap:3rem;
+
+
+}
